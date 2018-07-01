@@ -1,0 +1,14 @@
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\bin\Debug\UserMVC.exe.config
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\bin\Debug\UserMVC.exe
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\bin\Debug\UserMVC.pdb
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\bin\Debug\Controlador.dll
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\bin\Debug\Modelo.dll
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\bin\Debug\Controlador.pdb
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\bin\Debug\Modelo.pdb
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\obj\Debug\UserMVC.csprojResolveAssemblyReference.cache
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\obj\Debug\UserMVC.UserAddFrom.resources
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\obj\Debug\UserMVC.Properties.Resources.resources
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\obj\Debug\UserMVC.csproj.GenerateResource.Cache
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\obj\Debug\UserMVC.exe
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\obj\Debug\UserMVC.pdb
+C:\Users\SER\Documents\Practica Profesional\UserMVC\UserMVC\obj\Debug\UserMVC.UserListFrom.resources
